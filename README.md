@@ -8,12 +8,12 @@ Summer 2016, 2 week session 'Code Subversions'
 Instead of coding from scratch, we will be remixing, modding and collaging existing technologies to critically explore them. We’ll learn about the physical infrastructure of the internet, underlying logic of programming languages and the code behind popular corporate web platforms. We will then use this knowledge to create playful projects that subvert the computational systems we use every day.
 
 # Who are the teachers?
-Ramsey Nasser - radical computer scientist, game-designer and educator
-Tega Brain - artist, environmental engineer, Processing Foundation fellow
-Sam Lavigne - data collagist, ITP fellow, Stupid Hackathon founder
-Ida C. Benedetto - transgressive place maker, experience designer, game maker
-Ingrid Burrington - writer, map maker, infrastructure demystifier
-Todd Anderson and Lauren Gardner are organizing the session. SFPC Team including Zachary Lieberman and Taeyoon Choi will provide additional support.
+* Ramsey Nasser - radical computer scientist, game-designer and educator
+* Tega Brain - artist, environmental engineer, Processing Foundation fellow
+* Sam Lavigne - data collagist, ITP fellow, Stupid Hackathon founder
+* Ida C. Benedetto - transgressive place maker, experience designer, game maker
+* Ingrid Burrington - writer, map maker, infrastructure demystifier
+* Todd Anderson and Lauren Gardner are organizing the session. SFPC Team including Zachary Lieberman and Taeyoon Choi will provide additional support.
 
 # Classes
 ## Speculative Bureaucracy // Tega Brain // [Syllabus](https://github.com/tegacodes/speculative-bureaucracy)
